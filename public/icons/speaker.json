@@ -1,0 +1,22 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "colebemis",
+    "ericfennis"
+  ],
+  "tags": [
+    "sound",
+    "audio",
+    "music",
+    "tweeter",
+    "subwoofer",
+    "bass",
+    "production",
+    "producer",
+    "dj"
+  ],
+  "categories": [
+    "multimedia",
+    "devices"
+  ]
+}
